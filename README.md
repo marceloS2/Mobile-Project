@@ -27,3 +27,6 @@ Style (StyleSheet)
 Pressable
 Linking API
 Add código nativo no AndroidManifest.xml para abrir link
+
+
+![Screenshot_20220621-224736_dioRN](https://user-images.githubusercontent.com/82478461/174926301-69637105-e2a9-4d23-a95e-4f417eb792a7.jpg)
